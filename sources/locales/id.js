@@ -1,0 +1,21 @@
+export default {
+	"Dashboard" : "Dasbor",
+	"Users" : "Pengguna",
+	"Products" : "Produk",
+	"Film title" : "Judul Film",
+	"Released" : "Rilis",
+	"Votes" : "Vote",
+	"Rating" : "Rating",
+	"edit films" : "Edit Film",
+	"Title" : "Judul",
+	"Year" : "Tahun",
+	"Save" : "Simpan",
+	"Clear" : "Hapus",
+	"Add new person" : "Tambah orang",
+	"Demo App" : "Demo App",
+	"Sort asc" : "А-Z",
+	"Sort desc" : "Z-А",
+	"Age" : "Umur",
+	"Price" : "Harga",
+	"The software is provided by <a href='https://webix.com'>webix.com</a>. All rights reserved &#169;" : "Perangkat Lunak yang disediakan <a href='https://webix.com'>webix.com</a>. Seluruh hak cipta &#169;"
+};
